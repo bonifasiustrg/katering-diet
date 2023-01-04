@@ -20,3 +20,4 @@ Contoh:<br />
  Menu Paket Combo 2: Kentang, perkedel, ikan, buncis<br />
 
 <src="https://github.com/bonifasiustrg/TubesStrukturData/blob/main/image.png">
+</p> <img align="right" alt="donut coding" width="400" src="https://github.com/bonifasiustrg/TubesStrukturData/blob/main/image.png">
