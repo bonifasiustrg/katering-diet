@@ -19,4 +19,4 @@ Contoh:<br />
  Menu Paket Combo 1: Nasi, bala-bala, ikan, buncis<br />
  Menu Paket Combo 2: Kentang, perkedel, ikan, buncis<br />
 
-</p> <img align="center" alt="Linked List Tipe C (N to M)" src="https://github.com/bonifasiustrg/TubesStrukturData/blob/main/image.png">
+</p> <img align="center" alt="Linked List Tipe C (N to M)" width="500"  src="https://github.com/bonifasiustrg/TubesStrukturData/blob/main/image.png">
