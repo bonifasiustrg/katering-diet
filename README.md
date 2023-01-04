@@ -1,15 +1,15 @@
 # Katering Diet
 
 Fungsionalitas Dasar:
-a. Menambahkan data pada parent dan child.
-b. Mencari data pada parent dan child.
-c. Menampilkan data pada parent dan child.
-d. Menambahkan relasi antara parent dan child.
-e. Menghapus data (parent) beserta relasinya (child-nya).
-f. Menghitung jumlah data pada parent dan child-nya.
-g. Menampilkan jumlah data paling banyak.
-h. Menampilkan jumlah data paling sedikit.
-i. Program utama dari aplikasi.
+a. Menambahkan data pada parent dan child.<br />
+b. Mencari data pada parent dan child.<br />
+c. Menampilkan data pada parent dan child.<br />
+d. Menambahkan relasi antara parent dan child.<br />
+e. Menghapus data (parent) beserta relasinya (child-nya).<br />
+f. Menghitung jumlah data pada parent dan child-nya.<br />
+g. Menampilkan jumlah data paling banyak.<br />
+h. Menampilkan jumlah data paling sedikit.<br />
+i. Program utama dari aplikasi.<br />
 
 Setiap tim perlu mengimplementasikan fungsi-fungsi dasar/primitif sesuai dengan pembelajar di kelas dan diperbolehkan mengembangkan program. Contoh pengembangan program adalah variasi fungsionalitas dasar/primitif (fungsi utamanya tidak boleh terganggu) dan/atau menambahkan fungsi pengembangan lainnya.
 
