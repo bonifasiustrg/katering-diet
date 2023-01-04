@@ -10,6 +10,7 @@ f. Menghitung jumlah data pada parent dan child-nya.
 g. Menampilkan jumlah data paling banyak.
 h. Menampilkan jumlah data paling sedikit.
 i. Program utama dari aplikasi.
+
 Setiap tim perlu mengimplementasikan fungsi-fungsi dasar/primitif sesuai dengan pembelajar di kelas dan diperbolehkan mengembangkan program. Contoh pengembangan program adalah variasi fungsionalitas dasar/primitif (fungsi utamanya tidak boleh terganggu) dan/atau menambahkan fungsi pengembangan lainnya.
 
 Deskripsi Tugas Besar
