@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1672419885 source:c:\users\takasima\documents\kateringdiet\main.cpp
+	"kateringdiet.h"
+
+1672633547 c:\users\takasima\documents\kateringdiet\kateringdiet.h
+	<iostream>
+
+1672633547 source:c:\users\takasima\documents\kateringdiet\kateringdiet.cpp
+	"kateringdiet.h"
+
+1672633547 source:k:\kateringdiet\kateringdiet.cpp
+	"kateringdiet.h"
+
+1672714626 k:\kateringdiet\kateringdiet.h
+	<iostream>
+
+1672714649 source:k:\kateringdiet\main.cpp
+	"kateringdiet.h"
+
+1672838091 source:c:\users\takasima\pictures\kateringdiet\kateringdiet.cpp
+	"kateringdiet.h"
+
+1672838028 c:\users\takasima\pictures\kateringdiet\kateringdiet.h
+	<iostream>
+
+1672838152 source:c:\users\takasima\pictures\kateringdiet\main.cpp
+	"kateringdiet.h"
+
+1672755166 source:c:\users\novia\downloads\kateringdiet 90%\kateringdiet\main.cpp
+	"kateringdiet.h"
+
+1672757460 c:\users\novia\downloads\kateringdiet 90%\kateringdiet\kateringdiet.h
+	<iostream>
+
+1672755098 source:c:\users\novia\downloads\kateringdiet 90%\kateringdiet\kateringdiet.cpp
+	"kateringdiet.h"
+
+1672838501 source:c:\users\takasima\pictures\kateringdiet 95%\kateringdiet.cpp
+	"kateringdiet.h"
+
+1672838028 c:\users\takasima\pictures\kateringdiet 95%\kateringdiet.h
+	<iostream>
+
+1672838501 source:c:\users\takasima\pictures\kateringdiet 95%\main.cpp
+	"kateringdiet.h"
+
