@@ -18,3 +18,5 @@ Suatu katering diet memiliki berbagai jenis paket makanan sehat yang dijual. Sat
 Contoh:<br />
  Menu Paket Combo 1: Nasi, bala-bala, ikan, buncis<br />
  Menu Paket Combo 2: Kentang, perkedel, ikan, buncis<br />
+
+<src="https://github.com/bonifasiustrg/TubesStrukturData/blob/main/image.png">
