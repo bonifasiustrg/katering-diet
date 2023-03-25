@@ -74,7 +74,8 @@ void showPaket(ListPaket LP);
 void addFoodToPaket(ListPaket &LP, ListFood &LF, string namaPaket, string namaFood);
 
 //Menghapus data (parent) beserta relasinya (child-nya).
-void deletePaket(ListPaket &LP, string namaPaket);
+void deletePaket(ListPaket &LP, adrPaket p);
+void deleteFood(ListPaket &LP, string namaPaket, string namaFood);
 void deleteRelation(ListPaket &LP, adrPaket p);
 
 //Menghitung jumlah data pada parent dan child-nya.
